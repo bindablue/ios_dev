@@ -26,9 +26,9 @@ int main(int argc, const char *argv[]){
     
     // 设置器调用
     
-    [p setCaption:@"MyCaption"];
+    [p setCaption:@"MyCaption007"];
     
-    [p setPhotographer:@"MyPhotographer"];
+    [p setPhotographer:@"MyPhotographer007"];
     
     
     
